@@ -4,8 +4,7 @@
 <img width="300" height="496" alt="2" src="https://github.com/user-attachments/assets/69bd14e0-694d-44c7-8a6b-30b959b41377" />
 
 
-
-**Browse It** is a lightweight and intuitive browser app designed specifically for watchOS. It allows users to quickly open popular websites and services directly from their Apple Watch.
+<br/>**Browse It** is a lightweight and intuitive browser app designed specifically for watchOS. It allows users to quickly open popular websites and services directly from their Apple Watch.
 
 I have based this project on this Reddit post https://www.reddit.com/r/apple/comments/rcn2h7/comment/hnwr8do/ which explains how to exploit `ASWebAuthenticationSession` to open a website in the built-in watchOS browser
 ```swift
