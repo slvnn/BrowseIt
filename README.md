@@ -1,6 +1,8 @@
 # Browse It
-![1](https://github.com/user-attachments/assets/630fcb04-e659-4347-8625-54cddcfb6876)
-![2](https://github.com/user-attachments/assets/61606c2c-902d-4b20-9bd4-1f799f7652e2)
+
+<img width="416" height="496" alt="1" src="https://github.com/user-attachments/assets/d0c4143a-0489-4b26-9451-1ad2c9c673f2" />
+<img width="416" height="496" alt="2" src="https://github.com/user-attachments/assets/69bd14e0-694d-44c7-8a6b-30b959b41377" />
+
 
 
 **Browse It** is a lightweight and intuitive browser app designed specifically for watchOS. It allows users to quickly open popular websites and services directly from their Apple Watch.
