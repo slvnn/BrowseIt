@@ -2,7 +2,7 @@
 //  BrowseItApp.swift
 //  BrowseIt Watch App
 //
-//  Created by miguel on 23/7/25.
+//  Created by slvnn on 23/7/25.
 //
 
 import SwiftUI
