@@ -1,7 +1,7 @@
 # Browse It
 
-<img width="416" height="496" alt="1" src="https://github.com/user-attachments/assets/d0c4143a-0489-4b26-9451-1ad2c9c673f2" />
-<img width="416" height="496" alt="2" src="https://github.com/user-attachments/assets/69bd14e0-694d-44c7-8a6b-30b959b41377" />
+<img width="300" height="496" alt="1" src="https://github.com/user-attachments/assets/d0c4143a-0489-4b26-9451-1ad2c9c673f2" />
+<img width="300" height="496" alt="2" src="https://github.com/user-attachments/assets/69bd14e0-694d-44c7-8a6b-30b959b41377" />
 
 
 
